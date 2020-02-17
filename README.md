@@ -32,6 +32,7 @@ on your platform. Eg:
 |----------------|---------------------------------------
 | Debian/Ubuntu: | **`apt install shelltestrunner`**
 | Gentoo:        | **`emerge shelltestrunner`**
+| Darwin:        | **`brew install shelltestrunner`**
 
 Or, build the latest release on any major platform:
 
